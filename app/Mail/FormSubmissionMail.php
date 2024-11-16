@@ -23,11 +23,11 @@ class FormSubmissionMail extends Mailable
     {
         $email = $this->subject('Nuevo Formulario Enviado')
                       ->view('emails.form_submission')
-                      ->with(['formData' => $this->formData]);
+                      ->with(['data' => $this->formData]);
 
         // Adjuntar imágenes
         foreach ($this->imageUrls as $imageUrl) {
-            $email->attach(public_path($imageUrl));
+            $email->attach(storage_path('app/public/images/' . $imageUrl));
         }
 
         return $email;

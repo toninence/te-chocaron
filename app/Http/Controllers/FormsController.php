@@ -31,7 +31,7 @@ class FormsController extends Controller
             if ($request->hasFile('imagenes')) {
                 foreach ($request->file('imagenes') as $image) {
                     $path = $image->store('images', 'public');
-                    $imageUrls[] = '/storage/' . $path;
+                    $imageUrls[] = basename($path);
                 }
             }
 
@@ -45,6 +45,7 @@ class FormsController extends Controller
 
             $formData = $request->all();
 
+            // $emails = ['toninence@gmail.com', "roferreyra83@hotmail.com"];
             $emails = ['toninence@gmail.com'];
 
             foreach ($emails as $email) {
