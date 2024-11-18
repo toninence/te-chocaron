@@ -26,7 +26,7 @@
                                     <i class="fas fa-car me-2"></i> Vehículo
                                 </li>
                                 <li class="list-group-item list-group-item-action" data-section="2" role="button" onclick="showSection(2)">
-                                    <i class="far fa-user me-2"></i> Usuario
+                                    <i class="far fa-user me-2"></i> Contacto
                                 </li>
                                 <li class="list-group-item list-group-item-action" data-section="3" role="button" onclick="showSection(3)">
                                     <i class="far fa-paper-plane me-2"></i> Finalizar
