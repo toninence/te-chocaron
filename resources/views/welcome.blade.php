@@ -11,10 +11,10 @@
         <div class="row gx-5 align-items-center justify-content-center">
             <div class="col-lg-8 col-xl-7 col-xxl-6">
                 <div class="my-5 text-center text-xl-start">
-                    <h1 class="display-5 fw-bolder text-white mb-2">Te chocaron? Nosotros te ayudamos</h1>
-                    <p class="lead fw-normal text-white-50 mb-4">Resolvemos tu caso rápido y sin complicaciones!</p>
+                    <h1 class="display-5 fw-bolder text-white mb-2">¿Tuviste un accidente de tránsito? Nosotros te ayudamos.</h1>
+                    <p class="lead fw-normal text-white-50 mb-4">Asesoramiento legal <span style="color: #FFF; font-weight: bold;">SIN COSTOS</span>. Resolvé tu reclamo con abogados especializados.</p>
                     <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
-                        <a class="btn btn-primary btn-lg px-4 me-sm-3" href="/create">Solicitar Asesoramiento</a>
+                        <a class="btn btn-primary btn-lg px-4 me-sm-3" href="https://wa.me/1111111111" target="_blank">¡Solicitá tu asesoramiento ahora!</a>
 
                     </div>
                 </div>
@@ -40,7 +40,7 @@
                     <div class="col mb-5 h-100">
                         <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-shield-lock"></i></div>
                         <h2 class="h5">Transparencia</h2>
-                        <p class="mb-0">Mantenemos una comunicación clara y honesta en todo momento.
+                        <p class="mb-0">Mantenemos una comunicación clara en todo momento.
                         </p>
                     </div>
                     <div class="col mb-5 mb-md-0 h-100">
@@ -95,10 +95,10 @@
                     <img class="card-img-top img-top-card-size" src="images/2306.jpg" alt="..." style="object-fit: cover; height: 200px !important;" />
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Información</div>
-                        <a class="text-decoration-none link-dark stretched-link" href="#!">
-                            <h5 class="card-title mb-3">Choqué con el auto</h5>
+                        <a class="text-decoration-none link-dark stretched-link" href="/faq#headingOne">
+                            <h5 class="card-title mb-3">¿Tuviste un accidente de tránsito?</h5>
                         </a>
-                        <p class="card-text mb-0">Si chocaste con el auto sabé qué tenés que hacer en el momento del accidente, qué datos tomar y cómo actuar ante la compañía de seguros.</p>
+                        <p class="card-text mb-0">Vea que hacer en caso de accidente de tránsito.</p>
                     </div>
                     <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                         <div class="d-flex align-items-end justify-content-between">
@@ -118,7 +118,7 @@
                     <img class="card-img-top img-top-card-size" src="images/64649.jpg" alt="..." style="object-fit: cover; height: 200px !important;" />
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Media</div>
-                        <a class="text-decoration-none link-dark stretched-link" href="#!">
+                        <a class="text-decoration-none link-dark stretched-link" href="/faq#headingTwo">
                             <h5 class="card-title mb-3">¿Por qué contratar un seguro para tu automóvil?</h5>
                         </a>
                         <p class="card-text mb-0">Que tu rodado tenga un seguro es fundamental para proteger tu patrimonio, tu vida y la de terceros en caso que sufras un accidente.</p>

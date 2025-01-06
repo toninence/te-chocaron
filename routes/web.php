@@ -17,5 +17,6 @@ Route::get('/faq', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
-Route::get('/create', [FormsController::class, 'create'])->name('form.create');
-Route::post('/', [FormsController::class, 'store'])->name('store');
+// Route::get('/create', [FormsController::class, 'create'])->name('form.create');
+// Route::get('/contact', [FormsController::class, 'contact'])->name('form.contact');
+// Route::post('/', [FormsController::class, 'store'])->name('store');

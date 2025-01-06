@@ -13,6 +13,10 @@ class FormsController extends Controller
     {
         return view('forms.create');
     }
+    public function contact()
+    {
+        return view('contact');
+    }
 
     public function store(Request $request)
     {

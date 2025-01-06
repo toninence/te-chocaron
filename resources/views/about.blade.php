@@ -11,7 +11,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-6">
                 <div class="text-center my-5">
-                    <h1 class="fw-bolder mb-3">Nuestra misión</h1>
+                    <h1 class="fw-bolder mb-3">Nuestra Misión</h1>
                     <p class="lead fw-normal text-muted mb-4" style="text-align: justify; text-justify: distribute;">Ofrecerte un asesoramiento integral y sin complicaciones cuando te enfrentas a un accidente automovilístico. Queremos que te sientas respaldado y que no tengas que preocuparte por los detalles, mientras nosotros nos encargamos de todo el proceso.</p>
                     <!-- <a class="btn btn-primary btn-lg" href="#scroll-target">Read our story</a> -->
                 </div>
