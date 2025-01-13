@@ -8,12 +8,14 @@
     <meta name="author" content="" />
     <title>@yield('title', 'Mi Aplicación')</title>
     <!-- Favicon-->
-    <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+    <link rel="icon" type="image/x-icon" href="images/logostransparente2.png" />
     <!-- Bootstrap icons-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
     <!-- Core theme CSS (includes Bootstrap)-->
     <link href="css/styles.css" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+
     @stack('styles')
     <style>
         .whatsapp-icon {
@@ -47,7 +49,7 @@
     </style>
 </head>
 
-<body class="d-flex flex-column h-100 bg-light">
+<body class="d-flex flex-column h-100 bg-principal">
     <div class="d-flex flex-column" style="min-height: 100vh;">
         <main class="flex-shrink-0">
             @include('layouts.partials.nav')
@@ -61,7 +63,7 @@
             </a>
         </main>
         <!-- Footer-->
-        <footer class="bg-dark py-4 mt-auto">
+        <footer class="bg-top-bot py-4 mt-auto">
             <div class="container px-5">
                 <div class="row align-items-center justify-content-between flex-column flex-sm-row">
                     <div class="col-auto">

@@ -10,7 +10,7 @@
     <div class="container px-5 my-5">
         <div class="text-center mb-5">
             <h1 class="fw-bolder">Información de interés</h1>
-            <p class="lead fw-normal text-muted mb-0">Si tienes algun siniestro de tránsito, te dejamos información de interés.</p>
+            <p class="lead fw-normal text-light mb-0">Si tienes algun siniestro de tránsito, te dejamos información de interés.</p>
         </div>
         <div class="row gx-5">
             <div class="col-xl-8">
@@ -30,7 +30,6 @@
                         <h3 class="accordion-header" id="headingTwo"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">¿Tuviste Lesiones?</button></h3>
                         <div class="accordion-collapse collapse" id="collapseTwo" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                <strong>¿Tuviste Lesiones?</strong>
                                 En el caso de haber lesionados, te recomendamos que llames a una ambulancia y a la Policía. Caso contrario, es indispensable que recibas atención médica a la brevedad(por más que consideres que sean golpes leves); así recibirás atención y tendrás constancia de haber pasado por una guardia.
                             </div>
                         </div>
@@ -46,15 +45,15 @@
                 </div>
             </div>
             <div class="col-xl-4">
-                <div class="card border-0 bg-light mt-xl-5">
+                <div class="card border-0 mt-xl-5">
                     <div class="card-body p-4 py-lg-5">
                         <div class="d-flex align-items-center justify-content-center">
                             <div class="text-center">
-                                <div class="h6 fw-bolder">¿Tienes más preguntas?</div>
+                                <div class="h6 fw-bolder text-dark">¿Tienes más preguntas?</div>
                                 <p class="text-muted mb-4">
                                     <strong>Contáctanos por WhatsApp:</strong>
                                     <br />
-                                    <a href="https://wa.me/1234567890">+1 234 567 890</a>
+                                    <a href="https://wa.me/5491133607120">+54 11 3360-7120</a>
                                 </p>
                                 <div class="h6 fw-bolder">Síguenos</div>
                                 <a class="fs-5 px-2 link-dark" href="#!"><i class="bi-twitter"></i></a>

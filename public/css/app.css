@@ -1,22 +1,42 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-/*
-body {
-    margin: 0;
-    padding: 0;
-    min-height: 100vh;
-    position: relative;
-    overflow-x: hidden;
+
+.bg-top-bot {
+    background-color: #314569;
+    color: #fff;
 }
 
-body::before {
-    content: '';
-    position: fixed;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    width: 50%;
-    background-color: #4285f4;
-    z-index: -1;
-} */
+.bg-header {
+    background-color: #314569;
+}
+
+.bg-principal {
+    background-color: #001f3f;
+    color: #fff;
+}
+
+.bg-feature {
+    background-color: #02aeb2;
+}
+
+.bg-card {
+    background-color: #314569;
+}
+
+.logo {
+    height: auto;
+    width: 165px;
+}
+
+.btn-palette {
+    background-color: #02aeb2; /* pending */
+}
+
+.contact-card {
+    background-color: #314569;
+}
+
+.wa-title {
+    color: #001f3f;
+}
