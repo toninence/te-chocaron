@@ -11,7 +11,8 @@
                     <h1 class="display-5 fw-bolder text-white mb-2">¿Tuviste un accidente de tránsito? Nosotros te ayudamos.</h1>
                     <p class="lead fw-normal text-white-50 mb-4">Asesoramiento legal <span style="color: #FFF; font-weight: bold;">SIN COSTO</span>. Resolvé tu reclamo con abogados especializados.</p>
                     <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
-                        <a class="btn btn-primary btn-lg px-4 me-sm-3 btn-palette" href="https://wa.me/1111111111" target="_blank">¡Solicitá tu asesoramiento ahora!</a>
+                        <a class="btn btn-primary btn-lg px-4 me-sm-3 btn-palette" href="https://wa.me/{{ env('TELEFONO') }}" target="_blank">¡Solicitá tu asesoramiento por WhatsApp ahora!</a>
+                        <p>O contactanos por correo en <a class="text-decoration-none email" href="mailto:info@te-chocaron.com.ar">info@te-chocaron.com.ar</a></p>
 
                     </div>
                 </div>

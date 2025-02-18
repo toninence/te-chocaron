@@ -26,11 +26,15 @@
 
 .logo {
     height: auto;
-    width: 165px;
+    width: 130px;
 }
 
 .btn-palette {
     background-color: #02aeb2; /* pending */
+}
+
+.email {
+    color: #02aeb2;
 }
 
 .contact-card {
