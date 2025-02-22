@@ -9,7 +9,7 @@
                 <li class="nav-item"><a class="nav-link link-light" href="/about">Sobre Nosotros</a></li>
                 <!-- <li class="nav-item"><a class="nav-link" href="/create">Solicitar Asesoramiento</a></li> -->
                 <li class="nav-item"><a class="nav-link link-light" href="/contact">Contáctanos</a></li>
-                <li class="nav-item"><a class="nav-link link-light" href="/faq">FAQ (Preguntas Frecuentes)</a></li>
+                <li class="nav-item"><a class="nav-link link-light" href="/faq">Preguntas sobre el Servicio</a></li>
                 <!-- <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" id="navbarDropdownBlog" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Blog</a>
                     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownBlog">

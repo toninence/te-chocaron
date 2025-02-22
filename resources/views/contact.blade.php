@@ -42,7 +42,7 @@
                         <i class="bi bi-whatsapp"></i>
                     </div>
                     <div class="h5 wa-title">WhatsApp</div>
-                    <p class="text-muted mb-0">Comunícate con nosotros a través de WhatsApp al {{ env('TELEFONO') }}</p>
+                    <p class="text-muted mb-0">Comunícate con nosotros a través de WhatsApp al <br> <b>{{ env('TELEFONO_FORMATTED') }}</b></p>
                 </div>
             </div>
         </a>
