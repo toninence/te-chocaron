@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Acerca de nosotros')
+@section('title', 'Preguntas sobre el Servicio')
 @push('styles')
 <link href="{{ asset('css/crear.css') }}" rel="stylesheet">
 <link href="{{ asset('css/app.css') }}" rel="stylesheet">
@@ -190,7 +190,7 @@
                                 <p class="text-muted mb-4">
                                     <strong>Contáctanos por WhatsApp:</strong>
                                     <br />
-                                    <a href="https://wa.me/5491133607120">+54 11 3360-7120</a>
+                                    <a href="https://wa.me/{{ env('TELEFONO') }}">{{ env('TELEFONO_FORMATTED') }}</a>
                                 </p>
                                 <div class="h6 fw-bolder">Síguenos</div>
                                 <a class="fs-5 px-2 link-dark" href="#!"><i class="bi-twitter"></i></a>

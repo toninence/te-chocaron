@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Formulario de Reporte de Incidente Vehicular')
+@section('title', 'Te Chocaron')
 
 @section('content')
 <header class="bg-header py-5">
@@ -62,7 +62,7 @@
         <div class="row gx-5 justify-content-center">
             <div class="col-lg-10 col-xl-7">
                 <div class="text-center">
-                    
+
                 </div>
             </div>
         </div>
