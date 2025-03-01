@@ -17,7 +17,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-5" src="images/6383278.jpg" alt="..." /></div>
+            <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-5" src="images/6383278.jpg" alt="Imagen de un accidente de tránsito" loading="lazy" /></div>
         </div>
     </div>
 </header>
@@ -82,7 +82,7 @@
         <div class="row gx-5">
             <div class="col-lg-4 mb-5">
                 <div class="card h-100 shadow border-0">
-                    <img class="card-img-top img-top-card-size" src="images/2306.jpg" alt="..." style="object-fit: cover; height: 200px !important;" />
+                    <img class="card-img-top img-top-card-size" src="images/2306.jpg" alt="Imagen informativa sobre accidentes" style="object-fit: cover; height: 200px !important;" loading="lazy" />
                     <div class="card-body bg-card p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Información</div>
                         <a class="text-decoration-none link-light stretched-link" href="/faq#headingOne">
@@ -100,7 +100,7 @@
             </div>
             <div class="col-lg-4 mb-5">
                 <div class="card h-100 shadow border-0">
-                    <img class="card-img-top img-top-card-size" src="images/64649.jpg" alt="..." style="object-fit: cover; height: 200px !important;" />
+                    <img class="card-img-top img-top-card-size" src="images/64649.jpg" alt="Imagen sobre lesiones en accidentes" style="object-fit: cover; height: 200px !important;" loading="lazy" />
                     <div class="card-body bg-card p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Media</div>
                         <a class="text-decoration-none link-light stretched-link" href="/faq#headingTwo">
@@ -117,7 +117,7 @@
             </div>
             <div class="col-lg-4 mb-5">
                 <div class="card h-100 shadow border-0">
-                    <img class="card-img-top img-top-card-size" src="images/6461675.jpg" alt="..." style="object-fit: cover; height: 200px !important;" />
+                    <img class="card-img-top img-top-card-size" src="images/6461675.jpg" alt="Imagen sobre culpabilidad en accidentes" style="object-fit: cover; height: 200px !important;" loading="lazy" />
                     <div class="card-body bg-card p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">News</div>
                         <a class="text-decoration-none link-light stretched-link" href="/faq#headingTwo">
